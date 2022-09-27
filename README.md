@@ -1,2 +1,3 @@
 # MMA20-Git-Demo
- Mein erstes Repo
+
+Zum installieren bitte Button herunterladen drücken.
