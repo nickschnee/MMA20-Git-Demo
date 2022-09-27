@@ -25,15 +25,19 @@ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
 ### Create tailwind.config File
+Zuerst initialisieren wir ein tailwind.config.js File mit diesem Befehl:
+
 ```
 npx tailwindcss init -p
 ```
 
-Oder ausprobieren:
+Nun **löschen** wir das eben erstellte tailwind.config.js File wieder (beispielsweise direkt in VS Code).
 
+Und erstellen ein neues, volles tailwind.config.js
 ```
 npx tailwindcss init --full
 ```
+
 
 ### Connect Configuration
 Check if this is already in the following file:
